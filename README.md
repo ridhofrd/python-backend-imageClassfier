@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## ⚙️ Cara Menjalankan
 
 1. **Clone repository**
@@ -22,3 +23,6 @@
    ```bash
    python app.py
    ```
+=======
+# python-backend-imageClassfier
+>>>>>>> 40d78af0bf43aaec4d994a4c242c3796e0289332
